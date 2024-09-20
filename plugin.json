@@ -1,0 +1,12 @@
+{
+  "ID": "9E3D73EA-6618-40B4-AA2A-60F6F60CDD14",
+  "ActionKeyword": "hdr",
+  "Name": "HDRezka Finder",
+  "Description": "Search films/serials on HDRezka.me",
+  "Author": "SUPEROLEJKAAA",
+  "Version": "1.0.0",
+  "Language": "JavaScript",
+  "Website": "https://github.com/SUPEROLEJKAAA/Flow.Launcher.Plugin.HDRezka",
+  "ExecuteFileName": ".\\src\\index.js",
+  "IcoPath": ".\\icons\\app.png"
+}
